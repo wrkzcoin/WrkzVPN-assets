@@ -41,7 +41,7 @@
     "privacypolicy_title1": "Informazioni personali",
     "privacypolicy_title2": "Diagnostica",
     "privacypolicy_title3": "Terze parti",
-    "protected": "Protetto",
+    "protected": "Protetta",
     "protocol_not_available": "Protocollo non supportato con le tue attuali impostazioni, tocca 'Forza' per cambiare immediatamente le tue impostazioni con il seguente protocollo",
     "protocol_not_available_title": "Protocollo non supportato",
     "rating_description": "Perché non lasciarmi 5 stelle per rallegrarmi 😊",
@@ -58,7 +58,7 @@
     "setting_killswitch": "Kill Switch",
     "setting_language": "Cambia lingua",
     "setting_privacypolicy": "Informativa sulla privacy",
-    "setting_rateus": "Votaci",
+    "setting_rateus": "Dicci cosa ne pensi",
     "setting_sponsor": "Come aiutare?",
     "setting_sponsor_desc": "Rivolgiti a noi: team@wrkz.work o unisciti al nostro canale discord https://chat.wrkz.work. La donazione può essere fatta agli indirizzi seguenti (toccare per copiare):",
     "setting_tos": "Termini di servizio",
@@ -74,10 +74,10 @@
     "supporting_vpn_detail": "Puoi supportare WrkzVPN in molti modi - finanziare il progetto, sponsorizzare VPS\/server, condividere WrkzVPN con un amico tramite link, menzionarlo, ecc",
     "understand": "Ho capito",
     "unknown_server": "Server sconosciuto",
-    "unprotected": "Non protetto",
+    "unprotected": "Non protetta",
     "upload": "Upload",
     "version": "Versione",
     "welcome": "Benvenuto",
     "whitelist_page": "Whitelist Pacchetti",
-    "your_connection": "La tua connessione"
+    "your_connection": "Stato connessione"
 }
